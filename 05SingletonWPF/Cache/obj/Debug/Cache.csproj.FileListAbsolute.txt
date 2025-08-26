@@ -1,0 +1,6 @@
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\SingletonWPF\Cache\bin\Debug\Cache.dll
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\SingletonWPF\Cache\bin\Debug\Cache.pdb
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\SingletonWPF\Cache\obj\Debug\Cache.csproj.AssemblyReference.cache
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\SingletonWPF\Cache\obj\Debug\Cache.csproj.CoreCompileInputs.cache
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\SingletonWPF\Cache\obj\Debug\Cache.dll
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\SingletonWPF\Cache\obj\Debug\Cache.pdb

@@ -1,0 +1,11 @@
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\06TryCatchConsole\06TryCatchConsole\bin\Debug\06TryCatchConsole.exe.config
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\06TryCatchConsole\06TryCatchConsole\bin\Debug\06TryCatchConsole.exe
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\06TryCatchConsole\06TryCatchConsole\bin\Debug\06TryCatchConsole.pdb
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\06TryCatchConsole\06TryCatchConsole\obj\Debug\06TryCatchConsole.csproj.AssemblyReference.cache
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\06TryCatchConsole\06TryCatchConsole\obj\Debug\06TryCatchConsole.csproj.CoreCompileInputs.cache
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\06TryCatchConsole\06TryCatchConsole\obj\Debug\06TryCatchConsole.exe
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\06TryCatchConsole\06TryCatchConsole\obj\Debug\06TryCatchConsole.pdb
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\06TryCatchConsole\06TryCatchConsole\obj\Debug\06TryCatchConsole.exe.config
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\06TryCatchConsole\06TryCatchConsole\bin\Debug\QiShiLog.dll
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\06TryCatchConsole\06TryCatchConsole\bin\Debug\QiShiLog.pdb
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\06TryCatchConsole\06TryCatchConsole\obj\Debug\06TryCat.8C60DD12.Up2Date

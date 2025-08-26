@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B16B3F0B-8427-49CD-9E62-4EB0920CCD2B}|WPFMaterialDesign\\WPFMaterialDesign.csproj|f:\\baidusyncdisk\\revit api\\projet_junhui\\07wpf\\wpfmaterialdesign\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B16B3F0B-8427-49CD-9E62-4EB0920CCD2B}|WPFMaterialDesign\\WPFMaterialDesign.csproj|solutionrelative:wpfmaterialdesign\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16B3F0B-8427-49CD-9E62-4EB0920CCD2B}|WPFMaterialDesign\\WPFMaterialDesign.csproj|f:\\baidusyncdisk\\revit api\\projet_junhui\\07wpf\\wpfmaterialdesign\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16B3F0B-8427-49CD-9E62-4EB0920CCD2B}|WPFMaterialDesign\\WPFMaterialDesign.csproj|solutionrelative:wpfmaterialdesign\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16B3F0B-8427-49CD-9E62-4EB0920CCD2B}|WPFMaterialDesign\\WPFMaterialDesign.csproj|f:\\baidusyncdisk\\revit api\\projet_junhui\\07wpf\\wpfmaterialdesign\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B16B3F0B-8427-49CD-9E62-4EB0920CCD2B}|WPFMaterialDesign\\WPFMaterialDesign.csproj|solutionrelative:wpfmaterialdesign\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16B3F0B-8427-49CD-9E62-4EB0920CCD2B}|WPFMaterialDesign\\WPFMaterialDesign.csproj|f:\\baidusyncdisk\\revit api\\projet_junhui\\07wpf\\wpfmaterialdesign\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B16B3F0B-8427-49CD-9E62-4EB0920CCD2B}|WPFMaterialDesign\\WPFMaterialDesign.csproj|solutionrelative:wpfmaterialdesign\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16B3F0B-8427-49CD-9E62-4EB0920CCD2B}|WPFMaterialDesign\\WPFMaterialDesign.csproj|F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\wpfmaterialdesign\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16B3F0B-8427-49CD-9E62-4EB0920CCD2B}|WPFMaterialDesign\\WPFMaterialDesign.csproj|solutionrelative:wpfmaterialdesign\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16B3F0B-8427-49CD-9E62-4EB0920CCD2B}|WPFMaterialDesign\\WPFMaterialDesign.csproj|f:\\baidusyncdisk\\revit api\\projet_junhui\\07wpf\\wpfmaterialdesign\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B16B3F0B-8427-49CD-9E62-4EB0920CCD2B}|WPFMaterialDesign\\WPFMaterialDesign.csproj|solutionrelative:wpfmaterialdesign\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8389E34-4008-4970-B746-32B3129DB36C}|WPFCombox\\WPFCombox.csproj|F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\wpfcombox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8389E34-4008-4970-B746-32B3129DB36C}|WPFCombox\\WPFCombox.csproj|solutionrelative:wpfcombox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 344,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\WPFMaterialDesign\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WPFMaterialDesign\\App.xaml.cs",
+              "ToolTip": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\WPFMaterialDesign\\App.xaml.cs",
+              "RelativeToolTip": "WPFMaterialDesign\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:00:51.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\WPFMaterialDesign\\packages.config",
+              "RelativeDocumentMoniker": "WPFMaterialDesign\\packages.config",
+              "ToolTip": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\WPFMaterialDesign\\packages.config",
+              "RelativeToolTip": "WPFMaterialDesign\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-07T17:55:42.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\WPFMaterialDesign\\App.config",
+              "RelativeDocumentMoniker": "WPFMaterialDesign\\App.config",
+              "ToolTip": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\WPFMaterialDesign\\App.config",
+              "RelativeToolTip": "WPFMaterialDesign\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-07T17:53:26.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\WPFMaterialDesign\\App.xaml",
+              "RelativeDocumentMoniker": "WPFMaterialDesign\\App.xaml",
+              "ToolTip": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\WPFMaterialDesign\\App.xaml",
+              "RelativeToolTip": "WPFMaterialDesign\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-07T17:53:24.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\WPFMaterialDesign\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFMaterialDesign\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\WPFMaterialDesign\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "WPFMaterialDesign\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:40:46.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\WPFMaterialDesign\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFMaterialDesign\\MainWindow.xaml",
+              "ToolTip": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\WPFMaterialDesign\\MainWindow.xaml*",
+              "RelativeToolTip": "WPFMaterialDesign\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-07T17:40:39.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\WPFCombox\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFCombox\\MainWindow.xaml",
+              "ToolTip": "F:\\BaiduSyncdisk\\Revit API\\Projet_Junhui\\07WPF\\WPFCombox\\MainWindow.xaml",
+              "RelativeToolTip": "WPFCombox\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-07T17:40:31.983Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 17,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
