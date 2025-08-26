@@ -1,0 +1,7 @@
+F:\Revit VPI\RevitLearn\01NameSpace\bin\Debug\01NameSpace.exe.config
+F:\Revit VPI\RevitLearn\01NameSpace\bin\Debug\01NameSpace.exe
+F:\Revit VPI\RevitLearn\01NameSpace\bin\Debug\01NameSpace.pdb
+F:\Revit VPI\RevitLearn\01NameSpace\obj\Debug\01NameSpace.csproj.AssemblyReference.cache
+F:\Revit VPI\RevitLearn\01NameSpace\obj\Debug\01NameSpace.csproj.CoreCompileInputs.cache
+F:\Revit VPI\RevitLearn\01NameSpace\obj\Debug\01NameSpace.exe
+F:\Revit VPI\RevitLearn\01NameSpace\obj\Debug\01NameSpace.pdb

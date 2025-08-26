@@ -1,0 +1,7 @@
+F:\Revit VPI\RevitLearn\RevitTemplate\bin\Debug\RevitTemplate.exe.config
+F:\Revit VPI\RevitLearn\RevitTemplate\bin\Debug\RevitTemplate.exe
+F:\Revit VPI\RevitLearn\RevitTemplate\bin\Debug\RevitTemplate.pdb
+F:\Revit VPI\RevitLearn\RevitTemplate\obj\Debug\RevitTemplate.csproj.AssemblyReference.cache
+F:\Revit VPI\RevitLearn\RevitTemplate\obj\Debug\RevitTemplate.csproj.CoreCompileInputs.cache
+F:\Revit VPI\RevitLearn\RevitTemplate\obj\Debug\RevitTemplate.exe
+F:\Revit VPI\RevitLearn\RevitTemplate\obj\Debug\RevitTemplate.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36119.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "UIBottonInstaller", "UIBottonInstaller\UIBottonInstaller.vdproj", "{89B9E1A5-3220-C809-B560-DD6E13CC4CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B9E1A5-3220-C809-B560-DD6E13CC4CB9}.Debug|Default.ActiveCfg = Debug
+		{89B9E1A5-3220-C809-B560-DD6E13CC4CB9}.Debug|Default.Build.0 = Debug
+		{89B9E1A5-3220-C809-B560-DD6E13CC4CB9}.Release|Default.ActiveCfg = Release
+		{89B9E1A5-3220-C809-B560-DD6E13CC4CB9}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8131E66A-30A2-4841-936A-0392E1CF1C25}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+F:\Revit VPI\RevitLearn\03ThirdBridge\bin\Debug\03ThirdBridge.exe.config
+F:\Revit VPI\RevitLearn\03ThirdBridge\bin\Debug\03ThirdBridge.exe
+F:\Revit VPI\RevitLearn\03ThirdBridge\bin\Debug\03ThirdBridge.pdb
+F:\Revit VPI\RevitLearn\03ThirdBridge\obj\Debug\03ThirdBridge.csproj.AssemblyReference.cache
+F:\Revit VPI\RevitLearn\03ThirdBridge\obj\Debug\MainWindow.g.cs
+F:\Revit VPI\RevitLearn\03ThirdBridge\obj\Debug\App.g.cs
+F:\Revit VPI\RevitLearn\03ThirdBridge\obj\Debug\03ThirdBridge_MarkupCompile.cache
+F:\Revit VPI\RevitLearn\03ThirdBridge\obj\Debug\03ThirdBridge_MarkupCompile.lref
+F:\Revit VPI\RevitLearn\03ThirdBridge\obj\Debug\MainWindow.baml
+F:\Revit VPI\RevitLearn\03ThirdBridge\obj\Debug\03ThirdBridge.g.resources
+F:\Revit VPI\RevitLearn\03ThirdBridge\obj\Debug\_03ThirdBridge.Properties.Resources.resources
+F:\Revit VPI\RevitLearn\03ThirdBridge\obj\Debug\03ThirdBridge.csproj.GenerateResource.cache
+F:\Revit VPI\RevitLearn\03ThirdBridge\obj\Debug\03ThirdBridge.csproj.CoreCompileInputs.cache
+F:\Revit VPI\RevitLearn\03ThirdBridge\obj\Debug\03ThirdBridge.exe
+F:\Revit VPI\RevitLearn\03ThirdBridge\obj\Debug\03ThirdBridge.pdb

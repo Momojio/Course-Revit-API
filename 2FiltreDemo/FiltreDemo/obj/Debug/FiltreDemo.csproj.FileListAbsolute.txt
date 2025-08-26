@@ -1,0 +1,14 @@
+F:\Revit VPI\FiltreDemo\FiltreDemo\obj\Debug\FiltreDemo.csproj.AssemblyReference.cache
+F:\Revit VPI\FiltreDemo\FiltreDemo\obj\Debug\FiltreDemo.csproj.CoreCompileInputs.cache
+F:\Revit VPI\FiltreDemo\FiltreDemo\bin\Debug\FiltreDemo.dll.config
+F:\Revit VPI\FiltreDemo\FiltreDemo\bin\Debug\FiltreDemo.dll
+F:\Revit VPI\FiltreDemo\FiltreDemo\bin\Debug\FiltreDemo.pdb
+F:\Revit VPI\FiltreDemo\FiltreDemo\obj\Debug\FiltreDemo.dll
+F:\Revit VPI\FiltreDemo\FiltreDemo\obj\Debug\FiltreDemo.pdb
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\FiltreDemo\FiltreDemo\bin\Debug\FiltreDemo.dll.config
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\FiltreDemo\FiltreDemo\bin\Debug\FiltreDemo.dll
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\FiltreDemo\FiltreDemo\bin\Debug\FiltreDemo.pdb
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\FiltreDemo\FiltreDemo\obj\Debug\FiltreDemo.csproj.AssemblyReference.cache
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\FiltreDemo\FiltreDemo\obj\Debug\FiltreDemo.csproj.CoreCompileInputs.cache
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\FiltreDemo\FiltreDemo\obj\Debug\FiltreDemo.dll
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\FiltreDemo\FiltreDemo\obj\Debug\FiltreDemo.pdb

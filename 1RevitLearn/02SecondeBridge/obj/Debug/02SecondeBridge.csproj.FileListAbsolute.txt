@@ -1,0 +1,7 @@
+F:\Revit VPI\RevitLearn\02SecondeBridge\bin\Debug\02SecondeBridge.exe.config
+F:\Revit VPI\RevitLearn\02SecondeBridge\bin\Debug\02SecondeBridge.exe
+F:\Revit VPI\RevitLearn\02SecondeBridge\bin\Debug\02SecondeBridge.pdb
+F:\Revit VPI\RevitLearn\02SecondeBridge\obj\Debug\02SecondeBridge.csproj.AssemblyReference.cache
+F:\Revit VPI\RevitLearn\02SecondeBridge\obj\Debug\02SecondeBridge.csproj.CoreCompileInputs.cache
+F:\Revit VPI\RevitLearn\02SecondeBridge\obj\Debug\02SecondeBridge.exe
+F:\Revit VPI\RevitLearn\02SecondeBridge\obj\Debug\02SecondeBridge.pdb

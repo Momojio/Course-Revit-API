@@ -1,0 +1,6 @@
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\SQLProjet\SQLProjet\bin\Debug\SQLProjet.dll
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\SQLProjet\SQLProjet\bin\Debug\SQLProjet.pdb
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\SQLProjet\SQLProjet\obj\Debug\SQLProjet.csproj.AssemblyReference.cache
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\SQLProjet\SQLProjet\obj\Debug\SQLProjet.csproj.CoreCompileInputs.cache
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\SQLProjet\SQLProjet\obj\Debug\SQLProjet.dll
+F:\BaiduSyncdisk\Revit API\Projet_Junhui\SQLProjet\SQLProjet\obj\Debug\SQLProjet.pdb

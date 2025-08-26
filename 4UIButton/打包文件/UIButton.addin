@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>External Tool</Name>
+    <Assembly>UIButtonPlugin\UIButton.dll</Assembly>
+    <ClientId>b8994cfa-ef52-46b1-acff-992df523c74a</ClientId>
+    <FullClassName>UIButton.UIDemo</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
